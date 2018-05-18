@@ -1,0 +1,25 @@
+{
+  "name": "testing-cytoscape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cytoscape": "^3.2.12",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev2": "nodemon ./part2-server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jberns/testing-cytoscape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jberns/testing-cytoscape/issues"
+  },
+  "homepage": "https://github.com/jberns/testing-cytoscape#readme"
+}
